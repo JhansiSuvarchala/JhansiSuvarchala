@@ -41,7 +41,7 @@
 ### 🌐 Connect with Me:
 
 <p align="left">
-  <a href="linkedin.com/in/jhansi-suvarchala-498019262/">
+  <a href="https://www.linkedin.com/in/jhansi-suvarchala-498019262/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:221fa04140@gmail.com">
@@ -54,6 +54,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</p>
